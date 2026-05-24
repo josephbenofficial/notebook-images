@@ -1,0 +1,51 @@
+<svg width="680" height="330" viewBox="0 0 680 330" xmlns="http://www.w3.org/2000/svg" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif'>
+<title>Calling an aggregation executes the groupby, collapsing each bucket to one value</title><desc>The aggregation method fires the lazy SeriesGroupBy. Each bucket collapses to a single value. Group labels become the index of the resulting Series.</desc>
+<defs>
+<marker id="ar_amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#BA7517" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#185FA5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#0F6E56" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_gray" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_purple" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#534AB7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<style>.t{font-size:14px;font-weight:500;fill:#2C2C2A}.ts{font-size:12px;font-weight:400;fill:#5F5E5A}</style>
+<rect x="40" y="14" width="600" height="26" rx="6" fill="none" stroke="#B4B2A9" stroke-width="0.5"/>
+<rect x="52" y="22" width="10" height="10" rx="2" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/><text class="ts" x="68" y="31" text-anchor="start">lazy</text>
+<rect x="120" y="22" width="10" height="10" rx="2" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/><text class="ts" x="136" y="31" text-anchor="start">Series</text>
+<rect x="206" y="22" width="10" height="10" rx="2" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/><text class="ts" x="222" y="31" text-anchor="start">DataFrame</text>
+<rect x="320" y="22" width="10" height="10" rx="2" fill="#FAECE7" stroke="#D85A30" stroke-width="0.5"/><text class="ts" x="336" y="31" text-anchor="start">broadcast to all rows</text>
+<rect x="30" y="64" width="210" height="140" rx="12" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.0"/>
+<text class="t" x="135" y="88" text-anchor="middle" fill="#633806">SeriesGroupBy</text>
+<text class="ts" x="135" y="106" text-anchor="middle" fill="#633806">lazy</text>
+<rect x="46" y="120" width="178" height="24" rx="4" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
+<text class="ts" x="135" y="136" text-anchor="middle" fill="#633806">A &#8594; 100, 150, 80</text>
+<rect x="46" y="148" width="178" height="24" rx="4" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
+<text class="ts" x="135" y="164" text-anchor="middle" fill="#633806">B &#8594; 200, 300</text>
+<rect x="46" y="176" width="178" height="24" rx="4" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
+<text class="ts" x="135" y="192" text-anchor="middle" fill="#633806">C &#8594; 50</text>
+<text class="t" x="330" y="104" text-anchor="middle">.agg_method()</text>
+<text class="ts" x="330" y="121" text-anchor="middle">e.g. .sum()</text>
+<line x1="246" y1="134" x2="414" y2="134" stroke="#185FA5" stroke-width="1.5" marker-end="url(#ar_blue)"/>
+<text class="ts" x="330" y="154" text-anchor="middle">collapses each bucket</text>
+<rect x="418" y="64" width="230" height="140" rx="12" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.0"/>
+<text class="t" x="533" y="86" text-anchor="middle" fill="#0C447C">Series &#8212; executed</text>
+<text class="ts" x="446" y="106" text-anchor="start" fill="#0C447C">index</text>
+<text class="ts" x="572" y="106" text-anchor="start" fill="#0C447C">value</text>
+<line x1="436" y1="114" x2="630" y2="114" stroke="#B4B2A9" stroke-width="0.5"/>
+<rect x="436" y="120" width="80" height="22" rx="3" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text class="ts" x="476" y="135" text-anchor="middle" fill="#0C447C">A</text>
+<rect x="540" y="120" width="90" height="22" rx="3" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text class="ts" x="585" y="135" text-anchor="middle" fill="#0C447C">330</text>
+<rect x="436" y="146" width="80" height="22" rx="3" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text class="ts" x="476" y="161" text-anchor="middle" fill="#0C447C">B</text>
+<rect x="540" y="146" width="90" height="22" rx="3" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text class="ts" x="585" y="161" text-anchor="middle" fill="#0C447C">500</text>
+<rect x="436" y="172" width="80" height="22" rx="3" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text class="ts" x="476" y="187" text-anchor="middle" fill="#0C447C">C</text>
+<rect x="540" y="172" width="90" height="22" rx="3" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text class="ts" x="585" y="187" text-anchor="middle" fill="#0C447C">50</text>
+<line x1="40" y1="232" x2="640" y2="232" stroke="#B4B2A9" stroke-width="0.5" stroke-dasharray="4 4"/>
+<text class="t" x="340" y="258" text-anchor="middle">Stage 3 &#8212; the trigger. The first line that actually computes anything.</text>
+<text class="ts" x="340" y="280" text-anchor="middle">Each bucket &#8594; one value. group_col labels (A, B, C) become the INDEX, not a column.</text>
+<text class="ts" x="340" y="302" text-anchor="middle">df.groupby('group_col')['value_col'].sum()   &#183;   add .reset_index() to make the index a column</text>
+</svg>

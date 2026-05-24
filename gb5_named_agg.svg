@@ -1,0 +1,47 @@
+<svg width="680" height="380" viewBox="0 0 680 380" xmlns="http://www.w3.org/2000/svg" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif'>
+<title>Named aggregation on multiple columns produces a MultiIndex DataFrame, then reset_index flattens it</title><desc>Grouping by two columns with named aggregations creates one row per group combination with named output columns, indexed by the group columns. reset_index moves them back to regular columns.</desc>
+<defs>
+<marker id="ar_amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#BA7517" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#185FA5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#0F6E56" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_gray" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_purple" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#534AB7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<style>.t{font-size:14px;font-weight:500;fill:#2C2C2A}.ts{font-size:12px;font-weight:400;fill:#5F5E5A}</style>
+<rect x="40" y="14" width="600" height="26" rx="6" fill="none" stroke="#B4B2A9" stroke-width="0.5"/>
+<rect x="52" y="22" width="10" height="10" rx="2" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/><text class="ts" x="68" y="31" text-anchor="start">lazy</text>
+<rect x="120" y="22" width="10" height="10" rx="2" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/><text class="ts" x="136" y="31" text-anchor="start">Series</text>
+<rect x="206" y="22" width="10" height="10" rx="2" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/><text class="ts" x="222" y="31" text-anchor="start">DataFrame</text>
+<rect x="320" y="22" width="10" height="10" rx="2" fill="#FAECE7" stroke="#D85A30" stroke-width="0.5"/><text class="ts" x="336" y="31" text-anchor="start">broadcast to all rows</text>
+<rect x="24" y="60" width="200" height="120" rx="12" fill="#FAEEDA" stroke="#BA7517" stroke-width="1.0"/>
+<text class="t" x="124" y="84" text-anchor="middle" fill="#633806">DataFrameGroupBy</text>
+<text class="ts" x="124" y="102" text-anchor="middle" fill="#633806">grouped by 2 cols</text>
+<rect x="40" y="116" width="168" height="22" rx="4" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
+<text class="ts" x="124" y="131" text-anchor="middle" fill="#633806">A &#183; X bucket</text>
+<rect x="40" y="142" width="168" height="22" rx="4" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
+<text class="ts" x="124" y="157" text-anchor="middle" fill="#633806">A &#183; Y bucket</text>
+<text class="t" x="320" y="92" text-anchor="middle">.agg(</text>
+<text class="ts" x="320" y="110" text-anchor="middle">m1=('c1','sum')</text>
+<text class="ts" x="320" y="128" text-anchor="middle">m2=('c2','mean')</text>
+<text class="t" x="320" y="146" text-anchor="middle">)</text>
+<line x1="230" y1="165" x2="404" y2="165" stroke="#185FA5" stroke-width="1.5" marker-end="url(#ar_blue)"/>
+<rect x="408" y="60" width="248" height="120" rx="12" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.0"/>
+<text class="t" x="532" y="82" text-anchor="middle" fill="#0C447C">DataFrame &#183; MultiIndex</text>
+<text class="ts" x="424" y="100" text-anchor="start" fill="#0C447C">(group_a, group_b) index | m1 | m2</text>
+<line x1="420" y1="108" x2="644" y2="108" stroke="#B4B2A9" stroke-width="0.5"/>
+<rect x="420" y="114" width="224" height="24" rx="3" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text class="ts" x="532" y="130" text-anchor="middle" fill="#0C447C">(A, X) &#183; 250 &#183; 0.2</text>
+<rect x="420" y="142" width="224" height="24" rx="3" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text class="ts" x="532" y="158" text-anchor="middle" fill="#0C447C">(A, Y) &#183; 80 &#183; 0.1</text>
+<text class="t" x="360" y="212" text-anchor="middle">.reset_index()</text>
+<line x1="520" y1="186" x2="430" y2="226" stroke="#0F6E56" stroke-width="1.5" marker-end="url(#ar_teal)"/>
+<rect x="150" y="232" width="380" height="106" rx="12" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.0"/>
+<text class="t" x="340" y="254" text-anchor="middle" fill="#085041">DataFrame &#8212; clean, ready for questions</text>
+<text class="ts" x="166" y="274" text-anchor="start" fill="#085041">group_a | group_b | m1 | m2</text>
+<line x1="166" y1="282" x2="514" y2="282" stroke="#B4B2A9" stroke-width="0.5"/>
+<rect x="166" y="288" width="348" height="22" rx="3" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text class="ts" x="340" y="303" text-anchor="middle" fill="#085041">A &#183; X &#183; 250 &#183; 0.2</text>
+<rect x="166" y="312" width="348" height="22" rx="3" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text class="ts" x="340" y="327" text-anchor="middle" fill="#085041">A &#183; Y &#183; 80 &#183; 0.1</text>
+</svg>
