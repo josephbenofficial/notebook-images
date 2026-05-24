@@ -1,0 +1,62 @@
+<svg width="680" height="420" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif'>
+<title>Keep the top row per group (single group_col)</title><desc>transform('max') broadcasts each group's maximum to every row, then a filter keeps only the rows whose value equals their group maximum.</desc>
+<defs>
+<marker id="ar_amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#BA7517" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#185FA5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_teal" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#0F6E56" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_coral" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_gray" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<marker id="ar_purple" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#534AB7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<style>.t{font-size:14px;font-weight:500;fill:#2C2C2A}.ts{font-size:12px;font-weight:400;fill:#5F5E5A}</style>
+<rect x="40" y="14" width="600" height="26" rx="6" fill="none" stroke="#B4B2A9" stroke-width="0.5"/>
+<rect x="52" y="22" width="10" height="10" rx="2" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/><text class="ts" x="68" y="31" text-anchor="start">lazy</text>
+<rect x="120" y="22" width="10" height="10" rx="2" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/><text class="ts" x="136" y="31" text-anchor="start">Series</text>
+<rect x="206" y="22" width="10" height="10" rx="2" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/><text class="ts" x="222" y="31" text-anchor="start">DataFrame</text>
+<rect x="320" y="22" width="10" height="10" rx="2" fill="#FAECE7" stroke="#D85A30" stroke-width="0.5"/><text class="ts" x="336" y="31" text-anchor="start">broadcast to all rows</text>
+<text class="t" x="120" y="58" text-anchor="middle">df  with group max broadcast</text>
+<rect x="20" y="70" width="150" height="26" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.5"/>
+<text class="ts" x="95" y="87" text-anchor="middle" fill="#2C2C2A">A · 100</text>
+<rect x="178" y="70" width="110" height="26" rx="3" fill="#FAECE7" stroke="#D85A30" stroke-width="0.5"/>
+<text class="ts" x="233" y="87" text-anchor="middle" fill="#712B13">max 150</text>
+<text class="ts" x="300" y="87" text-anchor="start" fill="#888780">drop ✗</text>
+<rect x="20" y="100" width="150" height="26" rx="3" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text class="ts" x="95" y="117" text-anchor="middle" fill="#0C447C">B · 200</text>
+<rect x="178" y="100" width="110" height="26" rx="3" fill="#FAECE7" stroke="#D85A30" stroke-width="0.5"/>
+<text class="ts" x="233" y="117" text-anchor="middle" fill="#712B13">max 300</text>
+<text class="ts" x="300" y="117" text-anchor="start" fill="#888780">drop ✗</text>
+<rect x="20" y="130" width="150" height="26" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.5"/>
+<text class="ts" x="95" y="147" text-anchor="middle" fill="#2C2C2A">A · 150</text>
+<rect x="178" y="130" width="110" height="26" rx="3" fill="#FAECE7" stroke="#D85A30" stroke-width="0.5"/>
+<text class="ts" x="233" y="147" text-anchor="middle" fill="#712B13">max 150</text>
+<text class="ts" x="300" y="147" text-anchor="start" fill="#0F6E56">keep ✓</text>
+<rect x="20" y="160" width="150" height="26" rx="3" fill="#FAECE7" stroke="#D85A30" stroke-width="0.5"/>
+<text class="ts" x="95" y="177" text-anchor="middle" fill="#712B13">C · 50</text>
+<rect x="178" y="160" width="110" height="26" rx="3" fill="#FAECE7" stroke="#D85A30" stroke-width="0.5"/>
+<text class="ts" x="233" y="177" text-anchor="middle" fill="#712B13">max 50</text>
+<text class="ts" x="300" y="177" text-anchor="start" fill="#0F6E56">keep ✓</text>
+<rect x="20" y="190" width="150" height="26" rx="3" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text class="ts" x="95" y="207" text-anchor="middle" fill="#0C447C">B · 300</text>
+<rect x="178" y="190" width="110" height="26" rx="3" fill="#FAECE7" stroke="#D85A30" stroke-width="0.5"/>
+<text class="ts" x="233" y="207" text-anchor="middle" fill="#712B13">max 300</text>
+<text class="ts" x="300" y="207" text-anchor="start" fill="#0F6E56">keep ✓</text>
+<rect x="20" y="220" width="150" height="26" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.5"/>
+<text class="ts" x="95" y="237" text-anchor="middle" fill="#2C2C2A">A · 80</text>
+<rect x="178" y="220" width="110" height="26" rx="3" fill="#FAECE7" stroke="#D85A30" stroke-width="0.5"/>
+<text class="ts" x="233" y="237" text-anchor="middle" fill="#712B13">max 150</text>
+<text class="ts" x="300" y="237" text-anchor="start" fill="#888780">drop ✗</text>
+<text class="ts" x="150" y="266" text-anchor="middle">.groupby('group_col')['value_col'].transform('max')</text>
+<line x1="95" y1="278" x2="95" y2="300" stroke="#0F6E56" stroke-width="1.5" marker-end="url(#ar_teal)"/>
+<text class="t" x="150" y="294" text-anchor="start">keep rows where  value == group max</text>
+<rect x="20" y="306" width="360" height="80" rx="12" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.0"/>
+<text class="t" x="200" y="328" text-anchor="middle" fill="#085041">top row per group</text>
+<rect x="36" y="340" width="328" height="18" rx="3" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text class="ts" x="200" y="353" text-anchor="middle" fill="#085041">A · 150   (= max 150 ✓)</text>
+<rect x="36" y="360" width="328" height="18" rx="3" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text class="ts" x="200" y="373" text-anchor="middle" fill="#085041">B · 300   (= max 300 ✓)  ·  C · 50 (= max 50 ✓)</text>
+<text class="ts" x="410" y="316" text-anchor="start">result[</text>
+<text class="ts" x="420" y="334" text-anchor="start">result['value_col'] ==</text>
+<text class="ts" x="420" y="352" text-anchor="start">result.groupby('group_col')</text>
+<text class="ts" x="430" y="370" text-anchor="start">['value_col'].transform('max')</text>
+<text class="ts" x="410" y="388" text-anchor="start">]</text>
+</svg>
