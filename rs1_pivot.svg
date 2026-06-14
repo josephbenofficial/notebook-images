@@ -1,0 +1,101 @@
+<svg width="680" height="443" viewBox="0 0 680 443" xmlns="http://www.w3.org/2000/svg" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif'>
+<title>pivot - long to wide, pure reshaping</title>
+<defs>
+<pattern id="diag" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)"><line x1="4" y1="0" x2="4" y2="8" stroke="#185FA5" stroke-width="1.2" stroke-opacity="0.18"/></pattern>
+</defs>
+<rect x="14" y="12" width="652" height="28" rx="5" fill="none" stroke="#B4B2A9" stroke-width="1"/>
+<rect x="26" y="21" width="14" height="10" rx="2" fill="#F1EFE8" stroke="#888780" stroke-width="0.8"/>
+<text x="44" y="26" text-anchor="start" font-size="12" fill="#8C8B85" dominant-baseline="central">Input raw data</text>
+<rect x="186" y="21" width="14" height="10" rx="2" fill="#F1EFE8" stroke="#888780" stroke-width="0.8"/>
+<rect x="186" y="21" width="14" height="10" rx="2" fill="url(#diag)"/>
+<text x="204" y="26" text-anchor="start" font-size="12" fill="#8C8B85" dominant-baseline="central">Values that move</text>
+<rect x="356" y="21" width="14" height="10" rx="2" fill="#C0E8D3" stroke="#0F6E56" stroke-width="0.8"/>
+<text x="374" y="26" text-anchor="start" font-size="12" fill="#8C8B85" dominant-baseline="central">&#8594; Output DataFrame</text>
+<rect x="530" y="21" width="14" height="10" rx="2" fill="#FAECE7"/>
+<rect x="530" y="21" width="3" height="10" rx="1" fill="#D85A30"/>
+<text x="548" y="26" text-anchor="start" font-size="12" fill="#8C8B85" dominant-baseline="central">Note / warning</text>
+<text x="14" y="52" text-anchor="start" font-size="13" font-weight="500" fill="#2C2C2A" dominant-baseline="central">Before - long table (4 rows)</text>
+<rect x="160" y="64" width="360" height="24" rx="5" fill="#F1EFE8"/>
+<rect x="160" y="76" width="360" height="12" fill="#F1EFE8"/>
+<rect x="280" y="64" width="130" height="24" fill="url(#diag)"/>
+<text x="220" y="76" text-anchor="middle" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">row_col</text>
+<text x="345" y="76" text-anchor="middle" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">column_col</text>
+<text x="465" y="76" text-anchor="middle" font-size="12" font-weight="500" fill="#2C2C2A" dominant-baseline="central">value_col</text>
+<line x1="160" y1="88" x2="520" y2="88" stroke="#888780" stroke-width="1"/>
+<rect x="160" y="88" width="120" height="24" fill="#F1EFE8"/>
+<text x="220" y="100" text-anchor="middle" font-size="12" font-weight="400" fill="#2C2C2A" dominant-baseline="central">N</text>
+<rect x="280" y="88" width="130" height="24" fill="#F1EFE8"/>
+<rect x="280" y="88" width="130" height="24" fill="url(#diag)"/>
+<text x="345" y="100" text-anchor="middle" font-size="12" font-weight="400" fill="#2C2C2A" dominant-baseline="central">A</text>
+<rect x="410" y="88" width="110" height="24" fill="#F1EFE8"/>
+<text x="465" y="100" text-anchor="middle" font-size="12" font-weight="400" fill="#2C2C2A" dominant-baseline="central">100</text>
+<line x1="160" y1="112" x2="520" y2="112" stroke="#888780" stroke-width="0.3"/>
+<rect x="160" y="112" width="120" height="24" fill="#FAFAF8"/>
+<text x="220" y="124" text-anchor="middle" font-size="12" font-weight="400" fill="#2C2C2A" dominant-baseline="central">N</text>
+<rect x="280" y="112" width="130" height="24" fill="#FAFAF8"/>
+<rect x="280" y="112" width="130" height="24" fill="url(#diag)"/>
+<text x="345" y="124" text-anchor="middle" font-size="12" font-weight="400" fill="#2C2C2A" dominant-baseline="central">B</text>
+<rect x="410" y="112" width="110" height="24" fill="#FAFAF8"/>
+<text x="465" y="124" text-anchor="middle" font-size="12" font-weight="400" fill="#2C2C2A" dominant-baseline="central">200</text>
+<line x1="160" y1="136" x2="520" y2="136" stroke="#888780" stroke-width="0.3"/>
+<rect x="160" y="136" width="120" height="24" fill="#F1EFE8"/>
+<text x="220" y="148" text-anchor="middle" font-size="12" font-weight="400" fill="#2C2C2A" dominant-baseline="central">S</text>
+<rect x="280" y="136" width="130" height="24" fill="#F1EFE8"/>
+<rect x="280" y="136" width="130" height="24" fill="url(#diag)"/>
+<text x="345" y="148" text-anchor="middle" font-size="12" font-weight="400" fill="#2C2C2A" dominant-baseline="central">A</text>
+<rect x="410" y="136" width="110" height="24" fill="#F1EFE8"/>
+<text x="465" y="148" text-anchor="middle" font-size="12" font-weight="400" fill="#2C2C2A" dominant-baseline="central">300</text>
+<line x1="160" y1="160" x2="520" y2="160" stroke="#888780" stroke-width="0.3"/>
+<rect x="160" y="160" width="120" height="24" fill="#FAFAF8"/>
+<text x="220" y="172" text-anchor="middle" font-size="12" font-weight="400" fill="#2C2C2A" dominant-baseline="central">S</text>
+<rect x="280" y="160" width="130" height="24" fill="#FAFAF8"/>
+<rect x="280" y="160" width="130" height="24" fill="url(#diag)"/>
+<text x="345" y="172" text-anchor="middle" font-size="12" font-weight="400" fill="#2C2C2A" dominant-baseline="central">B</text>
+<rect x="410" y="160" width="110" height="24" fill="#FAFAF8"/>
+<text x="465" y="172" text-anchor="middle" font-size="12" font-weight="400" fill="#2C2C2A" dominant-baseline="central">400</text>
+<line x1="160" y1="184" x2="520" y2="184" stroke="#888780" stroke-width="0.3"/>
+<line x1="280" y1="64" x2="280" y2="184" stroke="#888780" stroke-width="0.35"/>
+<line x1="410" y1="64" x2="410" y2="184" stroke="#888780" stroke-width="0.35"/>
+<rect x="160" y="64" width="360" height="120" rx="5" fill="none" stroke="#888780" stroke-width="1"/>
+<line x1="14" y1="204" x2="294" y2="204" stroke="#B4B2A9" stroke-width="0.5"/>
+<text x="340" y="204" text-anchor="middle" font-size="11" fill="#8C8B85" dominant-baseline="central">&#8595; transform</text>
+<line x1="386" y1="204" x2="666" y2="204" stroke="#B4B2A9" stroke-width="0.5"/>
+<rect x="40" y="220" width="600" height="35" rx="6" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="0.5"/>
+<text x="340" y="237" text-anchor="middle" font-size="12" fill="#185FA5" font-family='SFMono-Regular,Consolas,"Liberation Mono",Menlo,monospace' dominant-baseline="central">.pivot(index='row_col',  columns='column_col',  values='value_col')</text>
+<text x="14" y="267" text-anchor="start" font-size="13" font-weight="500" fill="#2C2C2A" dominant-baseline="central">After - wide table (2 rows)</text>
+<rect x="160" y="281" width="360" height="24" rx="5" fill="#E1F5EE"/>
+<rect x="160" y="293" width="360" height="12" fill="#E1F5EE"/>
+<rect x="160" y="281" width="120" height="24" fill="#D5E9DF"/>
+<rect x="160" y="293" width="120" height="12" fill="#D5E9DF"/>
+<text x="220" y="293" text-anchor="middle" font-size="12" font-weight="500" fill="#085041" dominant-baseline="central">row_col</text>
+<text x="345" y="293" text-anchor="middle" font-size="12" font-weight="500" fill="#085041" dominant-baseline="central">A</text>
+<text x="465" y="293" text-anchor="middle" font-size="12" font-weight="500" fill="#085041" dominant-baseline="central">B</text>
+<line x1="160" y1="305" x2="520" y2="305" stroke="#0F6E56" stroke-width="0.5"/>
+<rect x="160" y="305" width="120" height="24" fill="#D5E9DF"/>
+<text x="220" y="317" text-anchor="middle" font-size="12" font-weight="400" fill="#085041" dominant-baseline="central">N</text>
+<rect x="280" y="305" width="130" height="24" fill="#C0E8D3"/>
+<text x="345" y="317" text-anchor="middle" font-size="12" font-weight="400" fill="#085041" dominant-baseline="central">100</text>
+<rect x="410" y="305" width="110" height="24" fill="#C0E8D3"/>
+<text x="465" y="317" text-anchor="middle" font-size="12" font-weight="400" fill="#085041" dominant-baseline="central">200</text>
+<line x1="160" y1="329" x2="520" y2="329" stroke="#0F6E56" stroke-width="0.3"/>
+<rect x="160" y="329" width="120" height="24" fill="#D5E9DF"/>
+<text x="220" y="341" text-anchor="middle" font-size="12" font-weight="400" fill="#085041" dominant-baseline="central">S</text>
+<rect x="280" y="329" width="130" height="24" fill="#E1F5EE"/>
+<text x="345" y="341" text-anchor="middle" font-size="12" font-weight="400" fill="#085041" dominant-baseline="central">300</text>
+<rect x="410" y="329" width="110" height="24" fill="#E1F5EE"/>
+<text x="465" y="341" text-anchor="middle" font-size="12" font-weight="400" fill="#085041" dominant-baseline="central">400</text>
+<line x1="160" y1="353" x2="520" y2="353" stroke="#0F6E56" stroke-width="0.3"/>
+<line x1="280" y1="281" x2="280" y2="353" stroke="#0F6E56" stroke-width="0.35"/>
+<line x1="410" y1="281" x2="410" y2="353" stroke="#0F6E56" stroke-width="0.35"/>
+<rect x="160" y="281" width="360" height="72" rx="5" fill="none" stroke="#0F6E56" stroke-width="0.5"/>
+<rect x="14" y="367" width="652" height="28" rx="4" fill="#FAECE7"/>
+<rect x="14" y="367" width="4" height="28" rx="2" fill="#D85A30"/>
+<polygon points="32,374 25,388 39,388" fill="#D85A30"/>
+<text x="32" y="381" text-anchor="middle" font-size="9" font-weight="700" fill="white" dominant-baseline="central">!</text>
+<text x="50" y="381" text-anchor="start" font-size="12" fill="#712B13" dominant-baseline="central">row_col becomes the index after pivot - add .reset_index() to make it a regular column</text>
+<rect x="14" y="401" width="652" height="28" rx="4" fill="#FAECE7"/>
+<rect x="14" y="401" width="4" height="28" rx="2" fill="#D85A30"/>
+<polygon points="32,408 25,422 39,422" fill="#D85A30"/>
+<text x="32" y="415" text-anchor="middle" font-size="9" font-weight="700" fill="white" dominant-baseline="central">!</text>
+<text x="50" y="415" text-anchor="start" font-size="12" fill="#712B13" dominant-baseline="central">Throws ValueError if any (row_col, column_col) pair is not unique - use pivot_table instead</text>
+</svg>
