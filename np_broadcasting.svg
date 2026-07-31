@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="525" viewBox="0 0 680 525" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'>
+<rect x="0" y="0" width="680" height="525" fill="#ffffff"/>
+<defs><pattern id="diag" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)"><line x1="4" y1="0" x2="4" y2="8" stroke="#185FA5" stroke-width="1.2" stroke-opacity="0.18"/></pattern><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8C8B85"/></marker></defs>
+<text x="40" y="22" font-size="14" fill="#2C2C2A" text-anchor="start" dominant-baseline="central" font-weight="600">Broadcasting - shapes are compared from the right</text>
+<rect x="40" y="52" width="600" height="26" fill="none" stroke="#B4B2A9" stroke-width="0.8" rx="5"/>
+<rect x="54" y="61" width="12" height="9" fill="#F1EFE8" stroke="#888780" stroke-width="0.8" rx="2"/>
+<text x="72" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Input array</text>
+<rect x="153.4" y="61" width="12" height="9" fill="#C0E8D3" stroke="#0F6E56" stroke-width="0.8" rx="2"/>
+<text x="171.4" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Result</text>
+<rect x="225.8" y="60" width="12" height="11" fill="#E6F1FB" rx="2"/>
+<rect x="225.8" y="60" width="3" height="11" fill="#185FA5" rx="1.5"/>
+<text x="243.8" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Note</text>
+<rect x="287.40000000000003" y="60" width="12" height="11" fill="#FAECE7" rx="2"/>
+<rect x="287.40000000000003" y="60" width="3" height="11" fill="#D85A30" rx="1.5"/>
+<text x="305.40000000000003" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Warning</text>
+<rect x="40" y="90" width="600" height="35" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="0.5" rx="6"/>
+<text x="340.0" y="107.5" font-size="12" fill="#185FA5" text-anchor="middle" dominant-baseline="central" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">arr_2d  &lt;op&gt;  arr_1d       # op is any elementwise operator</text>
+<text x="40" y="141" font-size="13" fill="#2C2C2A" text-anchor="start" dominant-baseline="central" font-weight="500">Before - arr_2d (3, 4) and arr_1d (1, 4)</text>
+<rect x="88" y="155" width="58" height="26" fill="#F1EFE8"/>
+<text x="117.0" y="168.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">10</text>
+<rect x="146" y="155" width="58" height="26" fill="#F1EFE8"/>
+<text x="175.0" y="168.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">20</text>
+<rect x="204" y="155" width="58" height="26" fill="#F1EFE8"/>
+<text x="233.0" y="168.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">30</text>
+<rect x="262" y="155" width="58" height="26" fill="#F1EFE8"/>
+<text x="291.0" y="168.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">40</text>
+<line x1="88" y1="181" x2="320" y2="181" stroke="#888780" stroke-width="0.3"/>
+<rect x="88" y="181" width="58" height="26" fill="#FAFAF8"/>
+<text x="117.0" y="194.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">50</text>
+<rect x="146" y="181" width="58" height="26" fill="#FAFAF8"/>
+<text x="175.0" y="194.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">60</text>
+<rect x="204" y="181" width="58" height="26" fill="#FAFAF8"/>
+<text x="233.0" y="194.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">70</text>
+<rect x="262" y="181" width="58" height="26" fill="#FAFAF8"/>
+<text x="291.0" y="194.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">80</text>
+<line x1="88" y1="207" x2="320" y2="207" stroke="#888780" stroke-width="0.3"/>
+<rect x="88" y="207" width="58" height="26" fill="#F1EFE8"/>
+<text x="117.0" y="220.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">90</text>
+<rect x="146" y="207" width="58" height="26" fill="#F1EFE8"/>
+<text x="175.0" y="220.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">100</text>
+<rect x="204" y="207" width="58" height="26" fill="#F1EFE8"/>
+<text x="233.0" y="220.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">110</text>
+<rect x="262" y="207" width="58" height="26" fill="#F1EFE8"/>
+<text x="291.0" y="220.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">120</text>
+<line x1="146" y1="155" x2="146" y2="233" stroke="#888780" stroke-width="0.35"/>
+<line x1="204" y1="155" x2="204" y2="233" stroke="#888780" stroke-width="0.35"/>
+<line x1="262" y1="155" x2="262" y2="233" stroke="#888780" stroke-width="0.35"/>
+<rect x="88" y="155" width="232" height="78" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<rect x="360" y="155" width="58" height="26" fill="#F1EFE8"/>
+<text x="389.0" y="168.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+<rect x="418" y="155" width="58" height="26" fill="#F1EFE8"/>
+<text x="447.0" y="168.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="476" y="155" width="58" height="26" fill="#F1EFE8"/>
+<text x="505.0" y="168.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="534" y="155" width="58" height="26" fill="#F1EFE8"/>
+<text x="563.0" y="168.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">4</text>
+<line x1="418" y1="155" x2="418" y2="181" stroke="#888780" stroke-width="0.35"/>
+<line x1="476" y1="155" x2="476" y2="181" stroke="#888780" stroke-width="0.35"/>
+<line x1="534" y1="155" x2="534" y2="181" stroke="#888780" stroke-width="0.35"/>
+<rect x="360" y="155" width="232" height="26" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<text x="204.0" y="244" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">arr_2d</text>
+<text x="476.0" y="192" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">arr_1d</text>
+<line x1="40" y1="259" x2="134.0" y2="259" stroke="#B4B2A9" stroke-width="0.5"/>
+<line x1="546.0" y1="259" x2="640" y2="259" stroke="#B4B2A9" stroke-width="0.5"/>
+<text x="340.0" y="259" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">↓ arr_1d spreads across all 3 rows, then applies elementwise</text>
+<text x="40" y="277" font-size="13" fill="#2C2C2A" text-anchor="start" dominant-baseline="central" font-weight="500">After - the same broadcast, two different operators</text>
+<text x="204.0" y="293" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">arr_2d + arr_1d</text>
+<text x="476.0" y="293" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">arr_2d * arr_1d</text>
+<rect x="88" y="305" width="58" height="26" fill="#C0E8D3"/>
+<text x="117.0" y="318.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">11</text>
+<rect x="146" y="305" width="58" height="26" fill="#C0E8D3"/>
+<text x="175.0" y="318.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">22</text>
+<rect x="204" y="305" width="58" height="26" fill="#C0E8D3"/>
+<text x="233.0" y="318.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">33</text>
+<rect x="262" y="305" width="58" height="26" fill="#C0E8D3"/>
+<text x="291.0" y="318.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">44</text>
+<line x1="88" y1="331" x2="320" y2="331" stroke="#0F6E56" stroke-width="0.3"/>
+<rect x="88" y="331" width="58" height="26" fill="#E1F5EE"/>
+<text x="117.0" y="344.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">51</text>
+<rect x="146" y="331" width="58" height="26" fill="#E1F5EE"/>
+<text x="175.0" y="344.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">62</text>
+<rect x="204" y="331" width="58" height="26" fill="#E1F5EE"/>
+<text x="233.0" y="344.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">73</text>
+<rect x="262" y="331" width="58" height="26" fill="#E1F5EE"/>
+<text x="291.0" y="344.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">84</text>
+<line x1="88" y1="357" x2="320" y2="357" stroke="#0F6E56" stroke-width="0.3"/>
+<rect x="88" y="357" width="58" height="26" fill="#C0E8D3"/>
+<text x="117.0" y="370.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">91</text>
+<rect x="146" y="357" width="58" height="26" fill="#C0E8D3"/>
+<text x="175.0" y="370.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">102</text>
+<rect x="204" y="357" width="58" height="26" fill="#C0E8D3"/>
+<text x="233.0" y="370.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">113</text>
+<rect x="262" y="357" width="58" height="26" fill="#C0E8D3"/>
+<text x="291.0" y="370.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">124</text>
+<line x1="146" y1="305" x2="146" y2="383" stroke="#0F6E56" stroke-width="0.35"/>
+<line x1="204" y1="305" x2="204" y2="383" stroke="#0F6E56" stroke-width="0.35"/>
+<line x1="262" y1="305" x2="262" y2="383" stroke="#0F6E56" stroke-width="0.35"/>
+<rect x="88" y="305" width="232" height="78" fill="none" stroke="#0F6E56" stroke-width="0.5" rx="5"/>
+<rect x="360" y="305" width="58" height="26" fill="#C0E8D3"/>
+<text x="389.0" y="318.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">10</text>
+<rect x="418" y="305" width="58" height="26" fill="#C0E8D3"/>
+<text x="447.0" y="318.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">40</text>
+<rect x="476" y="305" width="58" height="26" fill="#C0E8D3"/>
+<text x="505.0" y="318.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">90</text>
+<rect x="534" y="305" width="58" height="26" fill="#C0E8D3"/>
+<text x="563.0" y="318.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">160</text>
+<line x1="360" y1="331" x2="592" y2="331" stroke="#0F6E56" stroke-width="0.3"/>
+<rect x="360" y="331" width="58" height="26" fill="#E1F5EE"/>
+<text x="389.0" y="344.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">50</text>
+<rect x="418" y="331" width="58" height="26" fill="#E1F5EE"/>
+<text x="447.0" y="344.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">120</text>
+<rect x="476" y="331" width="58" height="26" fill="#E1F5EE"/>
+<text x="505.0" y="344.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">210</text>
+<rect x="534" y="331" width="58" height="26" fill="#E1F5EE"/>
+<text x="563.0" y="344.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">320</text>
+<line x1="360" y1="357" x2="592" y2="357" stroke="#0F6E56" stroke-width="0.3"/>
+<rect x="360" y="357" width="58" height="26" fill="#C0E8D3"/>
+<text x="389.0" y="370.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">90</text>
+<rect x="418" y="357" width="58" height="26" fill="#C0E8D3"/>
+<text x="447.0" y="370.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">200</text>
+<rect x="476" y="357" width="58" height="26" fill="#C0E8D3"/>
+<text x="505.0" y="370.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">330</text>
+<rect x="534" y="357" width="58" height="26" fill="#C0E8D3"/>
+<text x="563.0" y="370.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">480</text>
+<line x1="418" y1="305" x2="418" y2="383" stroke="#0F6E56" stroke-width="0.35"/>
+<line x1="476" y1="305" x2="476" y2="383" stroke="#0F6E56" stroke-width="0.35"/>
+<line x1="534" y1="305" x2="534" y2="383" stroke="#0F6E56" stroke-width="0.35"/>
+<rect x="360" y="305" width="232" height="78" fill="none" stroke="#0F6E56" stroke-width="0.5" rx="5"/>
+<rect x="14" y="403" width="652" height="32" fill="#E6F1FB" rx="4"/>
+<rect x="14" y="403" width="4" height="32" fill="#185FA5" rx="2"/>
+<circle cx="32" cy="419.0" r="6.5" fill="#185FA5"/>
+<text x="32" y="419.0" font-size="9" fill="#ffffff" text-anchor="middle" dominant-baseline="central" font-weight="600">i</text>
+<text x="50" y="419.0" font-size="12" fill="#185FA5" text-anchor="start" dominant-baseline="central">Compare from the right - each pair must match or one of them must be 1</text>
+<rect x="14" y="439" width="652" height="32" fill="#E6F1FB" rx="4"/>
+<rect x="14" y="439" width="4" height="32" fill="#185FA5" rx="2"/>
+<circle cx="32" cy="455.0" r="6.5" fill="#185FA5"/>
+<text x="32" y="455.0" font-size="9" fill="#ffffff" text-anchor="middle" dominant-baseline="central" font-weight="600">i</text>
+<text x="50" y="455.0" font-size="12" fill="#185FA5" text-anchor="start" dominant-baseline="central">No copy is made in memory - arr_1d is read repeatedly, not duplicated</text>
+<rect x="14" y="475" width="652" height="32" fill="#FAECE7" rx="4"/>
+<rect x="14" y="475" width="4" height="32" fill="#D85A30" rx="2"/>
+<polygon points="32,484 39,496 25,496" fill="#D85A30"/>
+<text x="32" y="492" font-size="9" fill="#ffffff" text-anchor="middle" dominant-baseline="central">!</text>
+<text x="50" y="491.0" font-size="12" fill="#712B13" text-anchor="start" dominant-baseline="central">(3, 4) + (3,) fails - rightmost pair is 4 vs 3, neither matches and neither is 1</text>
+</svg>

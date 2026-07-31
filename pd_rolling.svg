@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="699" viewBox="0 0 680 699" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'>
+<rect x="0" y="0" width="680" height="699" fill="#ffffff"/>
+<defs><pattern id="diag" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)"><line x1="4" y1="0" x2="4" y2="8" stroke="#185FA5" stroke-width="1.2" stroke-opacity="0.18"/></pattern><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8C8B85"/></marker></defs>
+<text x="40" y="22" font-size="14" fill="#2C2C2A" text-anchor="start" dominant-baseline="central" font-weight="600">Rolling window - a window of fixed width sliding down the column</text>
+<rect x="40" y="52" width="600" height="26" fill="none" stroke="#B4B2A9" stroke-width="0.8" rx="5"/>
+<rect x="54" y="61" width="12" height="9" fill="#F1EFE8" stroke="#888780" stroke-width="0.8" rx="2"/>
+<text x="72" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Raw row</text>
+<rect x="131.8" y="61" width="12" height="9" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="0.8" rx="2"/>
+<rect x="131.8" y="61" width="12" height="9" fill="url(#diag)" rx="2"/>
+<text x="149.8" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Rolling window</text>
+<rect x="247.40000000000003" y="61" width="12" height="9" fill="#C0E8D3" stroke="#0F6E56" stroke-width="0.8" rx="2"/>
+<text x="265.40000000000003" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Result (same shape)</text>
+<rect x="390.00000000000006" y="60" width="12" height="11" fill="#E6F1FB" rx="2"/>
+<rect x="390.00000000000006" y="60" width="3" height="11" fill="#185FA5" rx="1.5"/>
+<text x="408.00000000000006" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Note</text>
+<rect x="40" y="90" width="600" height="35" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="0.5" rx="6"/>
+<text x="340.0" y="107.5" font-size="12" fill="#185FA5" text-anchor="middle" dominant-baseline="central" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">df['col'].rolling(3).mean()</text>
+<text x="40" y="141" font-size="13" fill="#2C2C2A" text-anchor="start" dominant-baseline="central" font-weight="500">Before - input column</text>
+<rect x="266.0" y="155" width="56" height="26" fill="#F1EFE8"/>
+<text x="294.0" y="168.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">row</text>
+<rect x="322.0" y="155" width="92" height="26" fill="#F1EFE8"/>
+<text x="368.0" y="168.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">col</text>
+<line x1="266.0" y1="181" x2="414.0" y2="181" stroke="#888780" stroke-width="1"/>
+<rect x="266.0" y="181" width="56" height="26" fill="#F1EFE8"/>
+<text x="294.0" y="194.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">0</text>
+<rect x="322.0" y="181" width="92" height="26" fill="#F1EFE8"/>
+<text x="368.0" y="194.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">10</text>
+<line x1="266.0" y1="207" x2="414.0" y2="207" stroke="#888780" stroke-width="0.3"/>
+<rect x="266.0" y="207" width="56" height="26" fill="#FAFAF8"/>
+<text x="294.0" y="220.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+<rect x="322.0" y="207" width="92" height="26" fill="#FAFAF8"/>
+<text x="368.0" y="220.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">14</text>
+<line x1="266.0" y1="233" x2="414.0" y2="233" stroke="#888780" stroke-width="0.3"/>
+<rect x="266.0" y="233" width="56" height="26" fill="#F1EFE8"/>
+<text x="294.0" y="246.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="322.0" y="233" width="92" height="26" fill="#F1EFE8"/>
+<text x="368.0" y="246.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+<line x1="266.0" y1="259" x2="414.0" y2="259" stroke="#888780" stroke-width="0.3"/>
+<rect x="266.0" y="259" width="56" height="26" fill="#FAFAF8"/>
+<text x="294.0" y="272.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="322.0" y="259" width="92" height="26" fill="#FAFAF8"/>
+<text x="368.0" y="272.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">20</text>
+<line x1="266.0" y1="285" x2="414.0" y2="285" stroke="#888780" stroke-width="0.3"/>
+<rect x="266.0" y="285" width="56" height="26" fill="#F1EFE8"/>
+<text x="294.0" y="298.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">4</text>
+<rect x="322.0" y="285" width="92" height="26" fill="#F1EFE8"/>
+<text x="368.0" y="298.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">16</text>
+<line x1="322.0" y1="155" x2="322.0" y2="311" stroke="#888780" stroke-width="0.35"/>
+<rect x="266.0" y="155" width="148" height="156" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<line x1="40" y1="329" x2="297.2" y2="329" stroke="#B4B2A9" stroke-width="0.5"/>
+<line x1="382.8" y1="329" x2="640" y2="329" stroke="#B4B2A9" stroke-width="0.5"/>
+<text x="340.0" y="329" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">↓ rolling</text>
+<rect x="30.0" y="347" width="196" height="40" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="1" rx="6"/>
+<rect x="30.0" y="347" width="196" height="40" fill="url(#diag)" rx="6"/>
+<text x="128.0" y="367.0" font-size="12" fill="#185FA5" text-anchor="middle" dominant-baseline="central">x = [10, 14, 8] → 10.67</text>
+<rect x="242.0" y="347" width="196" height="40" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="1" rx="6"/>
+<rect x="242.0" y="347" width="196" height="40" fill="url(#diag)" rx="6"/>
+<text x="340.0" y="367.0" font-size="12" fill="#185FA5" text-anchor="middle" dominant-baseline="central">x = [14, 8, 20] → 14.0</text>
+<rect x="454.0" y="347" width="196" height="40" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="1" rx="6"/>
+<rect x="454.0" y="347" width="196" height="40" fill="url(#diag)" rx="6"/>
+<text x="552.0" y="367.0" font-size="12" fill="#185FA5" text-anchor="middle" dominant-baseline="central">x = [8, 20, 16] → 14.67</text>
+<line x1="40" y1="405" x2="294.0" y2="405" stroke="#B4B2A9" stroke-width="0.5"/>
+<line x1="386.0" y1="405" x2="640" y2="405" stroke="#B4B2A9" stroke-width="0.5"/>
+<text x="340.0" y="405" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">↓ map back</text>
+<text x="40" y="423" font-size="13" fill="#2C2C2A" text-anchor="start" dominant-baseline="central" font-weight="500">After - result (new_col)</text>
+<rect x="266.0" y="437" width="56" height="26" fill="#E1F5EE"/>
+<text x="294.0" y="450.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">row</text>
+<rect x="322.0" y="437" width="92" height="26" fill="#E1F5EE"/>
+<text x="368.0" y="450.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">new_col</text>
+<line x1="266.0" y1="463" x2="414.0" y2="463" stroke="#0F6E56" stroke-width="0.5"/>
+<rect x="266.0" y="463" width="56" height="26" fill="#D5E9DF"/>
+<text x="294.0" y="476.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">0</text>
+<rect x="322.0" y="463" width="92" height="26" fill="#C0E8D3"/>
+<text x="368.0" y="476.0" font-size="12" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">NaN</text>
+<line x1="266.0" y1="489" x2="414.0" y2="489" stroke="#0F6E56" stroke-width="0.3"/>
+<rect x="266.0" y="489" width="56" height="26" fill="#D5E9DF"/>
+<text x="294.0" y="502.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">1</text>
+<rect x="322.0" y="489" width="92" height="26" fill="#E1F5EE"/>
+<text x="368.0" y="502.0" font-size="12" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">NaN</text>
+<line x1="266.0" y1="515" x2="414.0" y2="515" stroke="#0F6E56" stroke-width="0.3"/>
+<rect x="266.0" y="515" width="56" height="26" fill="#D5E9DF"/>
+<text x="294.0" y="528.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="322.0" y="515" width="92" height="26" fill="#C0E8D3"/>
+<text x="368.0" y="528.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">10.67</text>
+<line x1="266.0" y1="541" x2="414.0" y2="541" stroke="#0F6E56" stroke-width="0.3"/>
+<rect x="266.0" y="541" width="56" height="26" fill="#D5E9DF"/>
+<text x="294.0" y="554.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="322.0" y="541" width="92" height="26" fill="#E1F5EE"/>
+<text x="368.0" y="554.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">14.0</text>
+<line x1="266.0" y1="567" x2="414.0" y2="567" stroke="#0F6E56" stroke-width="0.3"/>
+<rect x="266.0" y="567" width="56" height="26" fill="#D5E9DF"/>
+<text x="294.0" y="580.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">4</text>
+<rect x="322.0" y="567" width="92" height="26" fill="#C0E8D3"/>
+<text x="368.0" y="580.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">14.67</text>
+<line x1="322.0" y1="437" x2="322.0" y2="593" stroke="#0F6E56" stroke-width="0.35"/>
+<rect x="266.0" y="437" width="148" height="156" fill="none" stroke="#0F6E56" stroke-width="0.5" rx="5"/>
+<rect x="14" y="613" width="652" height="32" fill="#E6F1FB" rx="4"/>
+<rect x="14" y="613" width="4" height="32" fill="#185FA5" rx="2"/>
+<circle cx="32" cy="629.0" r="6.5" fill="#185FA5"/>
+<text x="32" y="629.0" font-size="9" fill="#ffffff" text-anchor="middle" dominant-baseline="central" font-weight="600">i</text>
+<text x="50" y="629.0" font-size="12" fill="#185FA5" text-anchor="start" dominant-baseline="central">The first window-1 rows are NaN - there is no full window yet</text>
+<rect x="14" y="649" width="652" height="32" fill="#E6F1FB" rx="4"/>
+<rect x="14" y="649" width="4" height="32" fill="#185FA5" rx="2"/>
+<circle cx="32" cy="665.0" r="6.5" fill="#185FA5"/>
+<text x="32" y="665.0" font-size="9" fill="#ffffff" text-anchor="middle" dominant-baseline="central" font-weight="600">i</text>
+<text x="50" y="665.0" font-size="12" fill="#185FA5" text-anchor="start" dominant-baseline="central">rolling(3, min_periods=1) computes on partial windows instead of returning NaN</text>
+</svg>
