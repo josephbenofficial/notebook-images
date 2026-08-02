@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="1124" viewBox="0 0 680 1124" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'>
+<rect x="0" y="0" width="680" height="1124" fill="#ffffff"/>
+<defs><pattern id="diag" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)"><line x1="4" y1="0" x2="4" y2="8" stroke="#185FA5" stroke-width="1.2" stroke-opacity="0.18"/></pattern><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8C8B85"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#0F6E56"/></marker></defs>
+<text x="40" y="22" font-size="14" fill="#2C2C2A" text-anchor="start" dominant-baseline="central" font-weight="600">How axis changes by operation</text>
+<rect x="40" y="52" width="600" height="26" fill="none" stroke="#B4B2A9" stroke-width="0.8" rx="5"/>
+<rect x="54" y="61" width="12" height="9" fill="#F1EFE8" stroke="#888780" stroke-width="0.8" rx="2"/>
+<text x="72" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Input</text>
+<rect x="121.0" y="61" width="12" height="9" fill="none" stroke="#185FA5" stroke-width="1.4" rx="2"/>
+<text x="139.0" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Slice</text>
+<rect x="188.0" y="61" width="12" height="9" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="0.8" rx="2"/>
+<text x="206.0" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Function call</text>
+<rect x="298.2" y="61" width="12" height="9" fill="#C0E8D3" stroke="#0F6E56" stroke-width="0.8" rx="2"/>
+<text x="316.2" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Result</text>
+<rect x="370.6" y="61" width="12" height="9" fill="#FAECE7" stroke="#D85A30" stroke-width="0.8" rx="2"/>
+<text x="388.6" y="65" font-size="11" fill="#8C8B85" text-anchor="start" dominant-baseline="central">Removed</text>
+<circle cx="51" cy="96" r="11" fill="#185FA5"/>
+<text x="51" y="96" font-size="12" fill="#ffffff" text-anchor="middle" dominant-baseline="central" font-weight="700">1</text>
+<text x="70" y="96" font-size="14" fill="#2C2C2A" text-anchor="start" dominant-baseline="central" font-weight="600">Reduction - the dimension is collapsed</text>
+<text x="190" y="122" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">arr.sum(axis=0)</text>
+<text x="506" y="122" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">arr.sum(axis=1)</text>
+<rect x="124.0" y="138" width="44" height="26" fill="#F1EFE8"/>
+<text x="146.0" y="151.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="168.0" y="138" width="44" height="26" fill="#F1EFE8"/>
+<text x="190.0" y="151.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="212.0" y="138" width="44" height="26" fill="#F1EFE8"/>
+<text x="234.0" y="151.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+<line x1="124.0" y1="164" x2="256.0" y2="164" stroke="#888780" stroke-width="0.3"/>
+<rect x="124.0" y="164" width="44" height="26" fill="#FAFAF8"/>
+<text x="146.0" y="177.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+<rect x="168.0" y="164" width="44" height="26" fill="#FAFAF8"/>
+<text x="190.0" y="177.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">9</text>
+<rect x="212.0" y="164" width="44" height="26" fill="#FAFAF8"/>
+<text x="234.0" y="177.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">10</text>
+<line x1="168.0" y1="138" x2="168.0" y2="190" stroke="#888780" stroke-width="0.35"/>
+<line x1="212.0" y1="138" x2="212.0" y2="190" stroke="#888780" stroke-width="0.35"/>
+<rect x="124.0" y="138" width="132" height="52" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<line x1="146.0" y1="195" x2="146.0" y2="211" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<line x1="190.0" y1="195" x2="190.0" y2="211" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<line x1="234.0" y1="195" x2="234.0" y2="211" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<rect x="124.0" y="216" width="44" height="26" fill="#C0E8D3"/>
+<text x="146.0" y="229.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">11</text>
+<rect x="168.0" y="216" width="44" height="26" fill="#C0E8D3"/>
+<text x="190.0" y="229.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">11</text>
+<rect x="212.0" y="216" width="44" height="26" fill="#C0E8D3"/>
+<text x="234.0" y="229.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">11</text>
+<line x1="168.0" y1="216" x2="168.0" y2="242" stroke="#0F6E56" stroke-width="0.35"/>
+<line x1="212.0" y1="216" x2="212.0" y2="242" stroke="#0F6E56" stroke-width="0.35"/>
+<rect x="124.0" y="216" width="132" height="26" fill="none" stroke="#0F6E56" stroke-width="0.5" rx="5"/>
+<text x="190" y="255" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">one value per column</text>
+<rect x="432" y="138" width="44" height="26" fill="#F1EFE8"/>
+<text x="454.0" y="151.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="476" y="138" width="44" height="26" fill="#F1EFE8"/>
+<text x="498.0" y="151.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="520" y="138" width="44" height="26" fill="#F1EFE8"/>
+<text x="542.0" y="151.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+<line x1="432" y1="164" x2="564" y2="164" stroke="#888780" stroke-width="0.3"/>
+<rect x="432" y="164" width="44" height="26" fill="#FAFAF8"/>
+<text x="454.0" y="177.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+<rect x="476" y="164" width="44" height="26" fill="#FAFAF8"/>
+<text x="498.0" y="177.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">9</text>
+<rect x="520" y="164" width="44" height="26" fill="#FAFAF8"/>
+<text x="542.0" y="177.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">10</text>
+<line x1="476" y1="138" x2="476" y2="190" stroke="#888780" stroke-width="0.35"/>
+<line x1="520" y1="138" x2="520" y2="190" stroke="#888780" stroke-width="0.35"/>
+<rect x="432" y="138" width="132" height="52" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<line x1="569" y1="151.0" x2="581" y2="151.0" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<line x1="569" y1="177.0" x2="581" y2="177.0" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<rect x="586" y="138" width="44" height="26" fill="#C0E8D3"/>
+<text x="608.0" y="151.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">6</text>
+<line x1="586" y1="164" x2="630" y2="164" stroke="#0F6E56" stroke-width="0.3"/>
+<rect x="586" y="164" width="44" height="26" fill="#E1F5EE"/>
+<text x="608.0" y="177.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">27</text>
+<rect x="586" y="138" width="44" height="52" fill="none" stroke="#0F6E56" stroke-width="0.5" rx="5"/>
+<text x="506" y="203" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">one value per row</text>
+<line x1="348" y1="112" x2="348" y2="261" stroke="#B4B2A9" stroke-width="0.5"/>
+<circle cx="51" cy="287" r="11" fill="#185FA5"/>
+<text x="51" y="287" font-size="12" fill="#ffffff" text-anchor="middle" dominant-baseline="central" font-weight="700">2</text>
+<text x="70" y="287" font-size="14" fill="#2C2C2A" text-anchor="start" dominant-baseline="central" font-weight="600">apply - the slice handed to the function</text>
+<text x="190" y="313" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">df.apply(f, axis=0)</text>
+<text x="506" y="313" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">df.apply(f, axis=1)</text>
+<rect x="76.0" y="329" width="76" height="26" fill="#F1EFE8"/>
+<text x="114.0" y="342.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="152.0" y="329" width="76" height="26" fill="#F1EFE8"/>
+<text x="190.0" y="342.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="228.0" y="329" width="76" height="26" fill="#F1EFE8"/>
+<text x="266.0" y="342.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+<line x1="76.0" y1="355" x2="304.0" y2="355" stroke="#888780" stroke-width="0.3"/>
+<rect x="76.0" y="355" width="76" height="26" fill="#FAFAF8"/>
+<text x="114.0" y="368.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+<rect x="152.0" y="355" width="76" height="26" fill="#FAFAF8"/>
+<text x="190.0" y="368.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">9</text>
+<rect x="228.0" y="355" width="76" height="26" fill="#FAFAF8"/>
+<text x="266.0" y="368.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">10</text>
+<line x1="152.0" y1="329" x2="152.0" y2="381" stroke="#888780" stroke-width="0.35"/>
+<line x1="228.0" y1="329" x2="228.0" y2="381" stroke="#888780" stroke-width="0.35"/>
+<rect x="76.0" y="329" width="228" height="52" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<rect x="78.0" y="331" width="72" height="48" fill="none" stroke="#185FA5" stroke-width="1.4" rx="3"/>
+<line x1="114.0" y1="386" x2="114.0" y2="402" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<rect x="154.0" y="331" width="72" height="48" fill="none" stroke="#185FA5" stroke-width="1.4" rx="3"/>
+<line x1="190.0" y1="386" x2="190.0" y2="402" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<rect x="230.0" y="331" width="72" height="48" fill="none" stroke="#185FA5" stroke-width="1.4" rx="3"/>
+<line x1="266.0" y1="386" x2="266.0" y2="402" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<rect x="78.0" y="407" width="72" height="26" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="1" rx="5"/>
+<text x="114.0" y="420.0" font-size="11.5" fill="#185FA5" text-anchor="middle" dominant-baseline="central" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">f([3, 8])</text>
+<rect x="154.0" y="407" width="72" height="26" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="1" rx="5"/>
+<text x="190.0" y="420.0" font-size="11.5" fill="#185FA5" text-anchor="middle" dominant-baseline="central" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">f([2, 9])</text>
+<rect x="230.0" y="407" width="72" height="26" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="1" rx="5"/>
+<text x="266.0" y="420.0" font-size="11.5" fill="#185FA5" text-anchor="middle" dominant-baseline="central" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">f([1, 10])</text>
+<text x="190" y="446" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">f gets each column Series</text>
+<rect x="388" y="329" width="44" height="26" fill="#F1EFE8"/>
+<text x="410.0" y="342.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="432" y="329" width="44" height="26" fill="#F1EFE8"/>
+<text x="454.0" y="342.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="476" y="329" width="44" height="26" fill="#F1EFE8"/>
+<text x="498.0" y="342.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+<line x1="388" y1="355" x2="520" y2="355" stroke="#888780" stroke-width="0.3"/>
+<rect x="388" y="355" width="44" height="26" fill="#FAFAF8"/>
+<text x="410.0" y="368.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+<rect x="432" y="355" width="44" height="26" fill="#FAFAF8"/>
+<text x="454.0" y="368.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">9</text>
+<rect x="476" y="355" width="44" height="26" fill="#FAFAF8"/>
+<text x="498.0" y="368.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">10</text>
+<line x1="432" y1="329" x2="432" y2="381" stroke="#888780" stroke-width="0.35"/>
+<line x1="476" y1="329" x2="476" y2="381" stroke="#888780" stroke-width="0.35"/>
+<rect x="388" y="329" width="132" height="52" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<rect x="390" y="331" width="128" height="22" fill="none" stroke="#185FA5" stroke-width="1.4" rx="3"/>
+<line x1="525" y1="342.0" x2="541" y2="342.0" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<rect x="390" y="357" width="128" height="22" fill="none" stroke="#185FA5" stroke-width="1.4" rx="3"/>
+<line x1="525" y1="368.0" x2="541" y2="368.0" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<rect x="546" y="329" width="92" height="26" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="1" rx="5"/>
+<text x="592.0" y="342.0" font-size="11.5" fill="#185FA5" text-anchor="middle" dominant-baseline="central" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">f([3, 2, 1])</text>
+<rect x="546" y="355" width="92" height="26" fill="#E6F1FB" stroke="#B5D4F4" stroke-width="1" rx="5"/>
+<text x="592.0" y="368.0" font-size="11.5" fill="#185FA5" text-anchor="middle" dominant-baseline="central" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">f([8, 9, 10])</text>
+<text x="506" y="394" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">f gets each row Series</text>
+<line x1="348" y1="303" x2="348" y2="452" stroke="#B4B2A9" stroke-width="0.5"/>
+<circle cx="51" cy="478" r="11" fill="#185FA5"/>
+<text x="51" y="478" font-size="12" fill="#ffffff" text-anchor="middle" dominant-baseline="central" font-weight="700">3</text>
+<text x="70" y="478" font-size="14" fill="#2C2C2A" text-anchor="start" dominant-baseline="central" font-weight="600">concat - the dimension objects are joined along</text>
+<text x="190" y="504" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">pd.concat([df1, df2], axis=0)</text>
+<text x="506" y="504" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">pd.concat([df1, df2], axis=1)</text>
+<text x="138" y="520" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">df1</text>
+<text x="242" y="520" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">df2</text>
+<rect x="94" y="532" width="44" height="26" fill="#F1EFE8"/>
+<text x="116.0" y="545.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+<rect x="138" y="532" width="44" height="26" fill="#F1EFE8"/>
+<text x="160.0" y="545.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+<line x1="138" y1="532" x2="138" y2="558" stroke="#888780" stroke-width="0.35"/>
+<rect x="94" y="532" width="88" height="26" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<rect x="198" y="532" width="44" height="26" fill="#F1EFE8"/>
+<text x="220.0" y="545.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="242" y="532" width="44" height="26" fill="#F1EFE8"/>
+<text x="264.0" y="545.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">4</text>
+<line x1="242" y1="532" x2="242" y2="558" stroke="#888780" stroke-width="0.35"/>
+<rect x="198" y="532" width="88" height="26" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<text x="454" y="520" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">df1</text>
+<text x="558" y="520" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">df2</text>
+<rect x="410" y="532" width="44" height="26" fill="#F1EFE8"/>
+<text x="432.0" y="545.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+<rect x="454" y="532" width="44" height="26" fill="#F1EFE8"/>
+<text x="476.0" y="545.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+<line x1="454" y1="532" x2="454" y2="558" stroke="#888780" stroke-width="0.35"/>
+<rect x="410" y="532" width="88" height="26" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<rect x="514" y="532" width="44" height="26" fill="#F1EFE8"/>
+<text x="536.0" y="545.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="558" y="532" width="44" height="26" fill="#F1EFE8"/>
+<text x="580.0" y="545.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">4</text>
+<line x1="558" y1="532" x2="558" y2="558" stroke="#888780" stroke-width="0.35"/>
+<rect x="514" y="532" width="88" height="26" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<line x1="190" y1="563" x2="190" y2="579" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<rect x="146" y="584" width="44" height="26" fill="#C0E8D3"/>
+<text x="168.0" y="597.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">1</text>
+<rect x="190" y="584" width="44" height="26" fill="#C0E8D3"/>
+<text x="212.0" y="597.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">2</text>
+<line x1="146" y1="610" x2="234" y2="610" stroke="#0F6E56" stroke-width="0.3"/>
+<rect x="146" y="610" width="44" height="26" fill="#E1F5EE"/>
+<text x="168.0" y="623.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="190" y="610" width="44" height="26" fill="#E1F5EE"/>
+<text x="212.0" y="623.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">4</text>
+<line x1="190" y1="584" x2="190" y2="636" stroke="#0F6E56" stroke-width="0.35"/>
+<rect x="146" y="584" width="88" height="52" fill="none" stroke="#0F6E56" stroke-width="0.5" rx="5"/>
+<text x="190" y="649" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">more rows - shape (2, 2)</text>
+<line x1="506" y1="563" x2="506" y2="579" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<rect x="418" y="584" width="44" height="26" fill="#C0E8D3"/>
+<text x="440.0" y="597.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">1</text>
+<rect x="462" y="584" width="44" height="26" fill="#C0E8D3"/>
+<text x="484.0" y="597.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="506" y="584" width="44" height="26" fill="#C0E8D3"/>
+<text x="528.0" y="597.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="550" y="584" width="44" height="26" fill="#C0E8D3"/>
+<text x="572.0" y="597.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">4</text>
+<line x1="462" y1="584" x2="462" y2="610" stroke="#0F6E56" stroke-width="0.35"/>
+<line x1="506" y1="584" x2="506" y2="610" stroke="#0F6E56" stroke-width="0.35"/>
+<line x1="550" y1="584" x2="550" y2="610" stroke="#0F6E56" stroke-width="0.35"/>
+<rect x="418" y="584" width="176" height="26" fill="none" stroke="#0F6E56" stroke-width="0.5" rx="5"/>
+<text x="506" y="623" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">more columns - shape (1, 4)</text>
+<line x1="348" y1="494" x2="348" y2="655" stroke="#B4B2A9" stroke-width="0.5"/>
+<circle cx="51" cy="681" r="11" fill="#185FA5"/>
+<text x="51" y="681" font-size="12" fill="#ffffff" text-anchor="middle" dominant-baseline="central" font-weight="700">4</text>
+<text x="70" y="681" font-size="14" fill="#2C2C2A" text-anchor="start" dominant-baseline="central" font-weight="600">drop - the label removed from that axis</text>
+<text x="190" y="707" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">df.drop(0, axis=0)</text>
+<text x="506" y="707" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">df.drop('col_a', axis=1)</text>
+<rect x="95.0" y="723" width="34" height="26" fill="#F1EFE8"/>
+<text x="112.0" y="736.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500"></text>
+<rect x="129.0" y="723" width="52" height="26" fill="#F1EFE8"/>
+<text x="155.0" y="736.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">col_a</text>
+<rect x="181.0" y="723" width="52" height="26" fill="#F1EFE8"/>
+<text x="207.0" y="736.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">col_b</text>
+<rect x="233.0" y="723" width="52" height="26" fill="#F1EFE8"/>
+<text x="259.0" y="736.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">col_c</text>
+<line x1="95.0" y1="749" x2="285.0" y2="749" stroke="#888780" stroke-width="1"/>
+<rect x="95.0" y="749" width="34" height="26" fill="#FAECE7"/>
+<text x="112.0" y="762.0" font-size="12" fill="#712B13" text-anchor="middle" dominant-baseline="central">0</text>
+<rect x="129.0" y="749" width="52" height="26" fill="#FAECE7"/>
+<text x="155.0" y="762.0" font-size="12" fill="#712B13" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="181.0" y="749" width="52" height="26" fill="#FAECE7"/>
+<text x="207.0" y="762.0" font-size="12" fill="#712B13" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="233.0" y="749" width="52" height="26" fill="#FAECE7"/>
+<text x="259.0" y="762.0" font-size="12" fill="#712B13" text-anchor="middle" dominant-baseline="central">1</text>
+<line x1="95.0" y1="775" x2="285.0" y2="775" stroke="#888780" stroke-width="0.3"/>
+<rect x="95.0" y="775" width="34" height="26" fill="#FAFAF8"/>
+<text x="112.0" y="788.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+<rect x="129.0" y="775" width="52" height="26" fill="#FAFAF8"/>
+<text x="155.0" y="788.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">8</text>
+<rect x="181.0" y="775" width="52" height="26" fill="#FAFAF8"/>
+<text x="207.0" y="788.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">9</text>
+<rect x="233.0" y="775" width="52" height="26" fill="#FAFAF8"/>
+<text x="259.0" y="788.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">10</text>
+<line x1="129.0" y1="723" x2="129.0" y2="801" stroke="#888780" stroke-width="0.35"/>
+<line x1="181.0" y1="723" x2="181.0" y2="801" stroke="#888780" stroke-width="0.35"/>
+<line x1="233.0" y1="723" x2="233.0" y2="801" stroke="#888780" stroke-width="0.35"/>
+<rect x="95.0" y="723" width="190" height="78" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<line x1="102.0" y1="762.0" x2="122.0" y2="762.0" stroke="#D85A30" stroke-width="1.6"/>
+<line x1="190" y1="806" x2="190" y2="822" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<rect x="95.0" y="827" width="34" height="26" fill="#E1F5EE"/>
+<text x="112.0" y="840.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500"></text>
+<rect x="129.0" y="827" width="52" height="26" fill="#E1F5EE"/>
+<text x="155.0" y="840.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">col_a</text>
+<rect x="181.0" y="827" width="52" height="26" fill="#E1F5EE"/>
+<text x="207.0" y="840.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">col_b</text>
+<rect x="233.0" y="827" width="52" height="26" fill="#E1F5EE"/>
+<text x="259.0" y="840.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">col_c</text>
+<line x1="95.0" y1="853" x2="285.0" y2="853" stroke="#0F6E56" stroke-width="0.5"/>
+<rect x="95.0" y="853" width="34" height="26" fill="#C0E8D3"/>
+<text x="112.0" y="866.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">1</text>
+<rect x="129.0" y="853" width="52" height="26" fill="#C0E8D3"/>
+<text x="155.0" y="866.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">8</text>
+<rect x="181.0" y="853" width="52" height="26" fill="#C0E8D3"/>
+<text x="207.0" y="866.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">9</text>
+<rect x="233.0" y="853" width="52" height="26" fill="#C0E8D3"/>
+<text x="259.0" y="866.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">10</text>
+<line x1="129.0" y1="827" x2="129.0" y2="879" stroke="#0F6E56" stroke-width="0.35"/>
+<line x1="181.0" y1="827" x2="181.0" y2="879" stroke="#0F6E56" stroke-width="0.35"/>
+<line x1="233.0" y1="827" x2="233.0" y2="879" stroke="#0F6E56" stroke-width="0.35"/>
+<rect x="95.0" y="827" width="190" height="52" fill="none" stroke="#0F6E56" stroke-width="0.5" rx="5"/>
+<text x="190" y="892" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">the row labelled 0 is gone</text>
+<rect x="411.0" y="723" width="34" height="26" fill="#F1EFE8"/>
+<text x="428.0" y="736.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500"></text>
+<rect x="445.0" y="723" width="52" height="26" fill="#FAECE7"/>
+<text x="471.0" y="736.0" font-size="12" fill="#712B13" text-anchor="middle" dominant-baseline="central" font-weight="500">col_a</text>
+<rect x="497.0" y="723" width="52" height="26" fill="#F1EFE8"/>
+<text x="523.0" y="736.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">col_b</text>
+<rect x="549.0" y="723" width="52" height="26" fill="#F1EFE8"/>
+<text x="575.0" y="736.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">col_c</text>
+<line x1="411.0" y1="749" x2="601.0" y2="749" stroke="#888780" stroke-width="1"/>
+<rect x="411.0" y="749" width="34" height="26" fill="#F1EFE8"/>
+<text x="428.0" y="762.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">0</text>
+<rect x="445.0" y="749" width="52" height="26" fill="#FAECE7"/>
+<text x="471.0" y="762.0" font-size="12" fill="#712B13" text-anchor="middle" dominant-baseline="central">3</text>
+<rect x="497.0" y="749" width="52" height="26" fill="#F1EFE8"/>
+<text x="523.0" y="762.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="549.0" y="749" width="52" height="26" fill="#F1EFE8"/>
+<text x="575.0" y="762.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+<line x1="411.0" y1="775" x2="601.0" y2="775" stroke="#888780" stroke-width="0.3"/>
+<rect x="411.0" y="775" width="34" height="26" fill="#FAFAF8"/>
+<text x="428.0" y="788.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">1</text>
+<rect x="445.0" y="775" width="52" height="26" fill="#FAECE7"/>
+<text x="471.0" y="788.0" font-size="12" fill="#712B13" text-anchor="middle" dominant-baseline="central">8</text>
+<rect x="497.0" y="775" width="52" height="26" fill="#FAFAF8"/>
+<text x="523.0" y="788.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">9</text>
+<rect x="549.0" y="775" width="52" height="26" fill="#FAFAF8"/>
+<text x="575.0" y="788.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">10</text>
+<line x1="445.0" y1="723" x2="445.0" y2="801" stroke="#888780" stroke-width="0.35"/>
+<line x1="497.0" y1="723" x2="497.0" y2="801" stroke="#888780" stroke-width="0.35"/>
+<line x1="549.0" y1="723" x2="549.0" y2="801" stroke="#888780" stroke-width="0.35"/>
+<rect x="411.0" y="723" width="190" height="78" fill="none" stroke="#888780" stroke-width="1" rx="5"/>
+<line x1="452.0" y1="736.0" x2="490.0" y2="736.0" stroke="#D85A30" stroke-width="1.6"/>
+<line x1="506" y1="806" x2="506" y2="822" stroke="#0F6E56" stroke-width="1.2" marker-end="url(#arrg)"/>
+<rect x="437.0" y="827" width="34" height="26" fill="#E1F5EE"/>
+<text x="454.0" y="840.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500"></text>
+<rect x="471.0" y="827" width="52" height="26" fill="#E1F5EE"/>
+<text x="497.0" y="840.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">col_b</text>
+<rect x="523.0" y="827" width="52" height="26" fill="#E1F5EE"/>
+<text x="549.0" y="840.0" font-size="12" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central" font-weight="500">col_c</text>
+<line x1="437.0" y1="853" x2="575.0" y2="853" stroke="#0F6E56" stroke-width="0.5"/>
+<rect x="437.0" y="853" width="34" height="26" fill="#C0E8D3"/>
+<text x="454.0" y="866.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">0</text>
+<rect x="471.0" y="853" width="52" height="26" fill="#C0E8D3"/>
+<text x="497.0" y="866.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="523.0" y="853" width="52" height="26" fill="#C0E8D3"/>
+<text x="549.0" y="866.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">1</text>
+<line x1="437.0" y1="879" x2="575.0" y2="879" stroke="#0F6E56" stroke-width="0.3"/>
+<rect x="437.0" y="879" width="34" height="26" fill="#E1F5EE"/>
+<text x="454.0" y="892.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">1</text>
+<rect x="471.0" y="879" width="52" height="26" fill="#E1F5EE"/>
+<text x="497.0" y="892.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">9</text>
+<rect x="523.0" y="879" width="52" height="26" fill="#E1F5EE"/>
+<text x="549.0" y="892.0" font-size="12" fill="#085041" text-anchor="middle" dominant-baseline="central">10</text>
+<line x1="471.0" y1="827" x2="471.0" y2="905" stroke="#0F6E56" stroke-width="0.35"/>
+<line x1="523.0" y1="827" x2="523.0" y2="905" stroke="#0F6E56" stroke-width="0.35"/>
+<rect x="437.0" y="827" width="138" height="78" fill="none" stroke="#0F6E56" stroke-width="0.5" rx="5"/>
+<text x="506" y="918" font-size="11" fill="#8C8B85" text-anchor="middle" dominant-baseline="central">the column labelled col_a is gone</text>
+<line x1="348" y1="697" x2="348" y2="924" stroke="#B4B2A9" stroke-width="0.5"/>
+<rect x="14" y="952" width="652" height="32" fill="#E6F1FB" rx="4"/>
+<rect x="14" y="952" width="4" height="32" fill="#185FA5" rx="2"/>
+<circle cx="32" cy="968.0" r="6.5" fill="#185FA5"/>
+<text x="32" y="968.0" font-size="9" fill="#ffffff" text-anchor="middle" dominant-baseline="central" font-weight="600">i</text>
+<text x="50" y="968.0" font-size="12" fill="#185FA5" text-anchor="start" dominant-baseline="central">For reductions, axis=n identifies the dimension being collapsed</text>
+<rect x="14" y="988" width="652" height="50" fill="#FAECE7" rx="4"/>
+<rect x="14" y="988" width="4" height="50" fill="#D85A30" rx="2"/>
+<polygon points="32,1005.0 39,1017.0 25,1017.0" fill="#D85A30"/>
+<text x="32" y="1013.0" font-size="9" fill="#ffffff" text-anchor="middle" dominant-baseline="central">!</text>
+<text x="50" y="1005" font-size="12" fill="#712B13" text-anchor="start" dominant-baseline="central">Outside explicit reductions, axis selects the dimension the operation acts on -</text>
+<text x="50" y="1023" font-size="12" fill="#712B13" text-anchor="start" dominant-baseline="central">whether the shape changes depends on the operation</text>
+<rect x="14" y="1042" width="652" height="32" fill="#E6F1FB" rx="4"/>
+<rect x="14" y="1042" width="4" height="32" fill="#185FA5" rx="2"/>
+<circle cx="32" cy="1058.0" r="6.5" fill="#185FA5"/>
+<text x="32" y="1058.0" font-size="9" fill="#ffffff" text-anchor="middle" dominant-baseline="central" font-weight="600">i</text>
+<text x="50" y="1058.0" font-size="12" fill="#185FA5" text-anchor="start" dominant-baseline="central">For a 3D reduction: axis=0 collapses layers, axis=1 rows within each layer, axis=2 columns</text>
+<rect x="14" y="1078" width="652" height="32" fill="#FAECE7" rx="4"/>
+<rect x="14" y="1078" width="4" height="32" fill="#D85A30" rx="2"/>
+<polygon points="32,1086.0 39,1098.0 25,1098.0" fill="#D85A30"/>
+<text x="32" y="1094.0" font-size="9" fill="#ffffff" text-anchor="middle" dominant-baseline="central">!</text>
+<text x="50" y="1094.0" font-size="12" fill="#712B13" text-anchor="start" dominant-baseline="central">drop takes labels, not positions - df.drop(0) fails if no row is labelled 0</text>
+</svg>
