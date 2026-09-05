@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 16 1000 648" width="1000" height="648" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxMTI5OGM0Ny0wMTFkLTRjN2UtOTlkMy00ZjRmMWM2ZDNmMGQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIUN1FfXcNYXwzd3MLQocVsAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplZWYxODEyOC0wNTFmLTRiNDAtODQ2OS1hZjQyMTY1MjlhNmFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNor690WFhu3Lqzs/1wC3O1TAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggD/guUgFKDvG7p6rsVWS22Zc6Vzh2FWIilLu0dAjOTqukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGgnBK+5fnrt3dpKGYGuWnAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAEQ8ckzEg1nKjr+xiHj2h3mIcDheyPGuh8rw14lWnLdmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjRZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjExMjk4YzQ3LTAxMWQtNGM3ZS05OWQzLTRmNGYxYzZkM2YwZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjk4ZGQ1NTZhLTEwODktNDRjZi05OWZiLTExZGZjZGIyOGM4M3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAP+C5SAUoO8bunquxVZLbZlzpXOHYVYiKUu7R0CM5Oq6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg8MbAJ+YkMZfXSvPPHCJhw5tuyhovZQeq0tKN7nwqqvKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggEyKtbF0Kk5Txc9Ff96r6yyYj0s+wL/jWBxhWhua+2Yx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIamDmQlzi3irxMJ7dTHmnOdilQxApA1sNPIxCUajLbQWka+mjawoR3pYBecqL1Z9oVb0J8SCyOW/SZebJe+IZo=</c2pa:manifest></metadata>
+  <rect x="0" y="16" width="1000" height="648" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#888780"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0F6E56"/>
+    </marker>
+    <marker id="arrowCoral" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D85A30"/>
+    </marker>
+    <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#185FA5"/>
+    </marker>
+    <pattern id="hatch" width="8" height="8" patternTransform="rotate(45)"
+             patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#FFFFFF"/>
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#888780" stroke-width="2.5" opacity="0.28"/>
+    </pattern>
+  </defs>
+  <rect x="210" y="30" width="20" height="14" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="1.1"/>
+  <text x="237" y="42" font-size="11" fill="#1F2933">train</text>
+  <rect x="300" y="30" width="20" height="14" rx="3" fill="#C0E8D3" stroke="#0F6E56" stroke-width="1.1"/>
+  <text x="327" y="42" font-size="11" fill="#1F2933">validation</text>
+  <text x="30" y="60" font-size="13" fill="#1F2933" font-weight="bold">KFold</text>
+  <text x="30" y="76" font-size="10.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780">cv = KFold(n_splits = 5)</text>
+  <path d="M 211 90 L 211 82 L 314 82 L 314 90" stroke="#888780" stroke-width="1.2" fill="none"/>
+  <path d="M 319 90 L 319 82 L 386 82 L 386 90" stroke="#D85A30" stroke-width="2.2" fill="none"/>
+  <path d="M 391 90 L 391 82 L 530 82 L 530 90" stroke="#D85A30" stroke-width="2.2" fill="none"/>
+  <path d="M 535 90 L 535 82 L 566 82 L 566 90" stroke="#888780" stroke-width="1.2" fill="none"/>
+  <path d="M 571 90 L 571 82 L 674 82 L 674 90" stroke="#D85A30" stroke-width="2.2" fill="none"/>
+  <path d="M 679 90 L 679 82 L 746 82 L 746 90" stroke="#888780" stroke-width="1.2" fill="none"/>
+  <path d="M 751 90 L 751 82 L 818 82 L 818 90" stroke="#D85A30" stroke-width="2.2" fill="none"/>
+  <path d="M 823 90 L 823 82 L 926 82 L 926 90" stroke="#888780" stroke-width="1.2" fill="none"/>
+  <text x="196" y="90" font-size="10.5" fill="#888780" text-anchor="end">orders</text>
+  <text x="196" y="117" font-size="11" fill="#1F2933" text-anchor="end">fold 1</text>
+  <rect x="210" y="96" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="246" y="96" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="282" y="96" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="318" y="96" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="354" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="390" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="426" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="462" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="498" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="534" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="570" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="606" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="642" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="678" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="714" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="750" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="786" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="822" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="858" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="894" y="96" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="196" y="161" font-size="11" fill="#1F2933" text-anchor="end">fold 2</text>
+  <rect x="210" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="246" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="282" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="318" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="354" y="140" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="390" y="140" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="426" y="140" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="462" y="140" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="498" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="534" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="570" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="606" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="642" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="678" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="714" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="750" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="786" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="822" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="858" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="894" y="140" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="196" y="205" font-size="11" fill="#1F2933" text-anchor="end">fold 3</text>
+  <rect x="210" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="246" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="282" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="318" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="354" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="390" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="426" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="462" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="498" y="184" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="534" y="184" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="570" y="184" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="606" y="184" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="642" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="678" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="714" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="750" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="786" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="822" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="858" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="894" y="184" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="196" y="249" font-size="11" fill="#1F2933" text-anchor="end">fold 4</text>
+  <rect x="210" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="246" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="282" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="318" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="354" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="390" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="426" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="462" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="498" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="534" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="570" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="606" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="642" y="228" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="678" y="228" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="714" y="228" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="750" y="228" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="786" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="822" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="858" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="894" y="228" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="196" y="293" font-size="11" fill="#1F2933" text-anchor="end">fold 5</text>
+  <rect x="210" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="246" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="282" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="318" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="354" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="390" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="426" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="462" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="498" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="534" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="570" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="606" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="642" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="678" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="714" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="750" y="272" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="786" y="272" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="822" y="272" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="858" y="272" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="894" y="272" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <path d="M 352.5 74 L 352.5 300" stroke="#D85A30" stroke-width="2.2" fill="none" stroke-dasharray="5 4"/>
+  <path d="M 496.5 74 L 496.5 300" stroke="#D85A30" stroke-width="2.2" fill="none" stroke-dasharray="5 4"/>
+  <path d="M 640.5 74 L 640.5 300" stroke="#D85A30" stroke-width="2.2" fill="none" stroke-dasharray="5 4"/>
+  <path d="M 784.5 74 L 784.5 300" stroke="#D85A30" stroke-width="2.2" fill="none" stroke-dasharray="5 4"/>
+  <text x="210" y="320" font-size="10.5" fill="#D85A30">every cut lands mid-order, so four orders have line items in two different folds</text>
+  <text x="30" y="374" font-size="13" fill="#1F2933" font-weight="bold">GroupKFold</text>
+  <text x="30" y="390" font-size="10.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780">cv = GroupKFold(n_splits = 5)</text>
+  <path d="M 211 404 L 211 396 L 314 396 L 314 404" stroke="#888780" stroke-width="1.2" fill="none"/>
+  <path d="M 319 404 L 319 396 L 386 396 L 386 404" stroke="#888780" stroke-width="1.2" fill="none"/>
+  <path d="M 391 404 L 391 396 L 530 396 L 530 404" stroke="#888780" stroke-width="1.2" fill="none"/>
+  <path d="M 535 404 L 535 396 L 566 396 L 566 404" stroke="#888780" stroke-width="1.2" fill="none"/>
+  <path d="M 571 404 L 571 396 L 674 396 L 674 404" stroke="#888780" stroke-width="1.2" fill="none"/>
+  <path d="M 679 404 L 679 396 L 746 396 L 746 404" stroke="#888780" stroke-width="1.2" fill="none"/>
+  <path d="M 751 404 L 751 396 L 818 396 L 818 404" stroke="#888780" stroke-width="1.2" fill="none"/>
+  <path d="M 823 404 L 823 396 L 926 396 L 926 404" stroke="#888780" stroke-width="1.2" fill="none"/>
+  <text x="196" y="404" font-size="10.5" fill="#888780" text-anchor="end">orders</text>
+  <text x="196" y="431" font-size="11" fill="#1F2933" text-anchor="end">fold 1</text>
+  <rect x="210" y="410" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="246" y="410" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="282" y="410" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="318" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="354" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="390" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="426" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="462" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="498" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="534" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="570" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="606" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="642" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="678" y="410" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="714" y="410" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="750" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="786" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="822" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="858" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="894" y="410" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="196" y="475" font-size="11" fill="#1F2933" text-anchor="end">fold 2</text>
+  <rect x="210" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="246" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="282" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="318" y="454" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="354" y="454" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="390" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="426" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="462" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="498" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="534" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="570" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="606" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="642" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="678" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="714" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="750" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="786" y="454" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="822" y="454" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="858" y="454" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="894" y="454" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <text x="196" y="519" font-size="11" fill="#1F2933" text-anchor="end">fold 3</text>
+  <rect x="210" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="246" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="282" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="318" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="354" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="390" y="498" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="426" y="498" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="462" y="498" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="498" y="498" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="534" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="570" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="606" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="642" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="678" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="714" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="750" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="786" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="822" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="858" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="894" y="498" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="196" y="563" font-size="11" fill="#1F2933" text-anchor="end">fold 4</text>
+  <rect x="210" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="246" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="282" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="318" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="354" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="390" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="426" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="462" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="498" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="534" y="542" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="570" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="606" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="642" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="678" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="714" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="750" y="542" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="786" y="542" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="822" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="858" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="894" y="542" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="196" y="607" font-size="11" fill="#1F2933" text-anchor="end">fold 5</text>
+  <rect x="210" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="246" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="282" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="318" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="354" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="390" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="426" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="462" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="498" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="534" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="570" y="586" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="606" y="586" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="642" y="586" width="33" height="31" rx="3" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <rect x="678" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="714" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="750" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="786" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="822" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="858" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <rect x="894" y="586" width="33" height="31" rx="3" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="210" y="634" font-size="10.5" fill="#0F6E56">whole orders are assigned to folds; no order is split</text>
+</svg>
