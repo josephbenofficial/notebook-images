@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 58 1000 466" width="1000" height="466" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5NGNhYmQ5MC05OTcyLTQ4MmEtOTZjOC03NzhjMDQzY2UxYjMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLeviP80UFTVVLRd1xWNJSIAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiZGYzMjJlZC1lZTg3LTQ0ODUtYjM4OC0xZjE2NGQyMmQ2ZjdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoWkG83QjTjjIBHGml2uGB5gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggZ0XlTjxexhaPODuHC16lURHaDHG8q9H5DnRqnjCzvk2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEmUCGHKksgqanGAStNHdosAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAsP2mgoYfkcqhW9Tgkcx2M/eophilHLxxvD/pGvfBRyGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjRZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjk0Y2FiZDkwLTk5NzItNDgyYS05NmM4LTc3OGMwNDNjZTFiMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjE4ZjcyNWNmLTA3MzYtNDAxOS1hYzkwLWI3YWNjMGRjNzM0Y3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBnReVOPF7GFo84O4cLXqVREdoMcbyr0fkOdGqeMLO+TaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggyxNm8K8+JG2Il85K5DGpULiJUBZtV0BwhTkrJEynOrKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggHmdkfuURtYIOR3Jm11N4T2i0RBcuiVwr0W5e2Nth6fV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIr+DEVxn2zCMkWiu6hTU6jZjp3l5Xs7CRoP/B6xKnf1QgguEcqSBAY3qCQHQ7OxU+IxROsKwa8SG3M6bswhASo=</c2pa:manifest></metadata>
+  <rect x="0" y="58" width="1000" height="466" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#888780"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0F6E56"/>
+    </marker>
+    <marker id="arrowCoral" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#D85A30"/>
+    </marker>
+    <marker id="arrowBlue" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#185FA5"/>
+    </marker>
+    <pattern id="hatch" width="8" height="8" patternTransform="rotate(45)"
+             patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#FFFFFF"/>
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#888780" stroke-width="2.5" opacity="0.28"/>
+    </pattern>
+  </defs>
+  <text x="160" y="86" font-size="12.5" fill="#1F2933" text-anchor="middle" font-weight="bold">1. score it</text>
+  <text x="160" y="104" font-size="10.5" fill="#888780" text-anchor="middle">held-out rows, model already fitted</text>
+  <rect x="60" y="120" width="38" height="24" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="79" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780" text-anchor="middle">gap</text>
+  <rect x="100" y="120" width="38" height="24" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="119" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780" text-anchor="middle">prior</text>
+  <rect x="140" y="120" width="38" height="24" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <text x="159" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#0F6E56" text-anchor="middle">quantity</text>
+  <rect x="180" y="120" width="38" height="24" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="199" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780" text-anchor="middle">region</text>
+  <rect x="220" y="120" width="38" height="24" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="239" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780" text-anchor="middle">segment</text>
+  <rect x="60" y="144" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="79" y="160" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="100" y="144" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="119" y="160" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="140" y="144" width="38" height="24" fill="#E1F5EE" stroke="#888780" stroke-width="0.7"/>
+  <text x="159" y="160" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">3</text>
+  <rect x="180" y="144" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="199" y="160" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="220" y="144" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="239" y="160" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="60" y="168" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="79" y="184" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="100" y="168" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="119" y="184" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="140" y="168" width="38" height="24" fill="#E1F5EE" stroke="#888780" stroke-width="0.7"/>
+  <text x="159" y="184" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">7</text>
+  <rect x="180" y="168" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="199" y="184" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="220" y="168" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="239" y="184" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="60" y="192" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="79" y="208" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="100" y="192" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="119" y="208" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="140" y="192" width="38" height="24" fill="#E1F5EE" stroke="#888780" stroke-width="0.7"/>
+  <text x="159" y="208" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">2</text>
+  <rect x="180" y="192" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="199" y="208" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="220" y="192" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="239" y="208" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="60" y="216" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="79" y="232" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="100" y="216" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="119" y="232" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="140" y="216" width="38" height="24" fill="#E1F5EE" stroke="#888780" stroke-width="0.7"/>
+  <text x="159" y="232" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">9</text>
+  <rect x="180" y="216" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="199" y="232" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="220" y="216" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="239" y="232" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="60" y="240" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="79" y="256" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="100" y="240" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="119" y="256" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="140" y="240" width="38" height="24" fill="#E1F5EE" stroke="#888780" stroke-width="0.7"/>
+  <text x="159" y="256" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">4</text>
+  <rect x="180" y="240" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="199" y="256" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="220" y="240" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="239" y="256" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="60" y="264" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="79" y="280" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="100" y="264" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="119" y="280" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="140" y="264" width="38" height="24" fill="#E1F5EE" stroke="#888780" stroke-width="0.7"/>
+  <text x="159" y="280" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">6</text>
+  <rect x="180" y="264" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="199" y="280" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="220" y="264" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="239" y="280" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <text x="500" y="86" font-size="12.5" fill="#1F2933" text-anchor="middle" font-weight="bold">2. shuffle one column</text>
+  <text x="500" y="104" font-size="10.5" fill="#888780" text-anchor="middle">every other column untouched</text>
+  <rect x="400" y="120" width="38" height="24" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="419" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780" text-anchor="middle">gap</text>
+  <rect x="440" y="120" width="38" height="24" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="459" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780" text-anchor="middle">prior</text>
+  <rect x="480" y="120" width="38" height="24" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <text x="499" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#0F6E56" text-anchor="middle">quantity</text>
+  <rect x="520" y="120" width="38" height="24" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="539" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780" text-anchor="middle">region</text>
+  <rect x="560" y="120" width="38" height="24" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="579" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780" text-anchor="middle">segment</text>
+  <rect x="400" y="144" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="419" y="160" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="440" y="144" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="459" y="160" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="480" y="144" width="38" height="24" fill="#FAECE7" stroke="#888780" stroke-width="0.7"/>
+  <text x="499" y="160" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">9</text>
+  <rect x="520" y="144" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="539" y="160" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="560" y="144" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="579" y="160" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="400" y="168" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="419" y="184" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="440" y="168" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="459" y="184" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="480" y="168" width="38" height="24" fill="#FAECE7" stroke="#888780" stroke-width="0.7"/>
+  <text x="499" y="184" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">2</text>
+  <rect x="520" y="168" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="539" y="184" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="560" y="168" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="579" y="184" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="400" y="192" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="419" y="208" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="440" y="192" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="459" y="208" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="480" y="192" width="38" height="24" fill="#FAECE7" stroke="#888780" stroke-width="0.7"/>
+  <text x="499" y="208" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">6</text>
+  <rect x="520" y="192" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="539" y="208" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="560" y="192" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="579" y="208" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="400" y="216" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="419" y="232" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="440" y="216" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="459" y="232" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="480" y="216" width="38" height="24" fill="#FAECE7" stroke="#888780" stroke-width="0.7"/>
+  <text x="499" y="232" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">3</text>
+  <rect x="520" y="216" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="539" y="232" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="560" y="216" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="579" y="232" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="400" y="240" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="419" y="256" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="440" y="240" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="459" y="256" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="480" y="240" width="38" height="24" fill="#FAECE7" stroke="#888780" stroke-width="0.7"/>
+  <text x="499" y="256" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">7</text>
+  <rect x="520" y="240" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="539" y="256" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="560" y="240" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="579" y="256" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="400" y="264" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="419" y="280" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="440" y="264" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="459" y="280" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="480" y="264" width="38" height="24" fill="#FAECE7" stroke="#888780" stroke-width="0.7"/>
+  <text x="499" y="280" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">4</text>
+  <rect x="520" y="264" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="539" y="280" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="560" y="264" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="579" y="280" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <text x="840" y="86" font-size="12.5" fill="#1F2933" text-anchor="middle" font-weight="bold">3. score it again</text>
+  <text x="840" y="104" font-size="10.5" fill="#888780" text-anchor="middle">nothing is refitted</text>
+  <rect x="740" y="120" width="38" height="24" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="759" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780" text-anchor="middle">gap</text>
+  <rect x="780" y="120" width="38" height="24" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="799" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780" text-anchor="middle">prior</text>
+  <rect x="820" y="120" width="38" height="24" fill="#C0E8D3" stroke="#888780" stroke-width="0.9"/>
+  <text x="839" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#0F6E56" text-anchor="middle">quantity</text>
+  <rect x="860" y="120" width="38" height="24" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="879" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780" text-anchor="middle">region</text>
+  <rect x="900" y="120" width="38" height="24" fill="#F1EFE8" stroke="#888780" stroke-width="0.9"/>
+  <text x="919" y="136" font-size="7.5" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#888780" text-anchor="middle">segment</text>
+  <rect x="740" y="144" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="759" y="160" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="780" y="144" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="799" y="160" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="820" y="144" width="38" height="24" fill="#FAECE7" stroke="#888780" stroke-width="0.7"/>
+  <text x="839" y="160" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">9</text>
+  <rect x="860" y="144" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="879" y="160" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="900" y="144" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="919" y="160" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="740" y="168" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="759" y="184" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="780" y="168" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="799" y="184" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="820" y="168" width="38" height="24" fill="#FAECE7" stroke="#888780" stroke-width="0.7"/>
+  <text x="839" y="184" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">2</text>
+  <rect x="860" y="168" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="879" y="184" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="900" y="168" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="919" y="184" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="740" y="192" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="759" y="208" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="780" y="192" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="799" y="208" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="820" y="192" width="38" height="24" fill="#FAECE7" stroke="#888780" stroke-width="0.7"/>
+  <text x="839" y="208" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">6</text>
+  <rect x="860" y="192" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="879" y="208" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="900" y="192" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="919" y="208" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="740" y="216" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="759" y="232" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="780" y="216" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="799" y="232" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="820" y="216" width="38" height="24" fill="#FAECE7" stroke="#888780" stroke-width="0.7"/>
+  <text x="839" y="232" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">3</text>
+  <rect x="860" y="216" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="879" y="232" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="900" y="216" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="919" y="232" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="740" y="240" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="759" y="256" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="780" y="240" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="799" y="256" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="820" y="240" width="38" height="24" fill="#FAECE7" stroke="#888780" stroke-width="0.7"/>
+  <text x="839" y="256" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">7</text>
+  <rect x="860" y="240" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="879" y="256" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="900" y="240" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="919" y="256" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="740" y="264" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="759" y="280" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="780" y="264" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="799" y="280" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="820" y="264" width="38" height="24" fill="#FAECE7" stroke="#888780" stroke-width="0.7"/>
+  <text x="839" y="280" font-size="10" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">4</text>
+  <rect x="860" y="264" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="879" y="280" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <rect x="900" y="264" width="38" height="24" fill="#FFFFFF" stroke="#888780" stroke-width="0.7"/>
+  <text x="919" y="280" font-size="10" fill="#888780" text-anchor="middle">·</text>
+  <path d="M 268 204 L 392 204" stroke="#D85A30" stroke-width="2" fill="none" marker-end="url(#arrowCoral)"/>
+  <path d="M 608 204 L 732 204" stroke="#888780" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <rect x="80" y="304" width="160" height="38" rx="7" fill="#C0E8D3" stroke="#0F6E56" stroke-width="1.5"/>
+  <text x="160" y="329" font-size="12" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">0.87</text>
+  <rect x="760" y="304" width="160" height="38" rx="7" fill="#FAECE7" stroke="#D85A30" stroke-width="1.5"/>
+  <text x="840" y="329" font-size="12" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" fill="#1F2933" text-anchor="middle">0.79</text>
+  <text x="500" y="329" font-size="10.5" fill="#888780" text-anchor="middle">same fitted model; nothing is refitted</text>
+  <rect x="60" y="368" width="860" height="86" rx="9" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.6"/>
+  <text x="84" y="396" font-size="12.5" fill="#1F2933" font-weight="bold">importance of quantity = 0.87 − 0.79 = 0.08</text>
+  <text x="84" y="418" font-size="11.5" fill="#1F2933">Repeat n_repeats times, shuffling differently each time, for importances_mean and importances_std.</text>
+  <text x="84" y="438" font-size="11.5" fill="#1F2933">Then do the whole thing again for every other column.</text>
+  <line x1="60" y1="480" x2="940" y2="480" stroke="#F1EFE8" stroke-width="2"/>
+  <text x="60" y="504" font-size="12.5" fill="#1F2933">Shuffling breaks the link between one column and the target, so the score drop estimates what the fitted model was relying on.</text>
+</svg>
